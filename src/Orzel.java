@@ -8,20 +8,20 @@ public class Orzel extends Ptak {
 
     @Override
     public String wydajDzwiek() {
-        return "Kiiiiii!";
+        return "Szzzz";
     }
 
     @Override
     public String poruszajSie() {
-        return "Lata wysoko w powietrzu";
+        return "Lata w niebie";
     }
 
     @Override
     public String srodowiskoNaturalne() {
-        return "Góry i klify";
+        return "Góry";
     }
 
     public void szybuj() {
-        System.out.println("Orzeł szybując wypatruje ofiary");
+        System.out.println("Orzeł szybujący w poszukiwaniu zdobyczy");
     }
 }

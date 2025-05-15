@@ -8,20 +8,23 @@ public class Wez extends Gad {
 
     @Override
     public String wydajDzwiek() {
+
         return "Ssssss";
     }
 
     @Override
     public String poruszajSie() {
-        return "Pełznie cicho po ziemi";
+        return "Pełznie";
     }
 
     @Override
     public String srodowiskoNaturalne() {
-        return "Dżungla lub pustynia";
+
+        return "Las, dżungli lub pustynia";
     }
 
     public void ukas() {
-        System.out.println("Wąż kąsa swoją ofiarę!");
+
+        System.out.println("Wąż atakuje swoją ofiarę");
     }
 }

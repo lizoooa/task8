@@ -8,12 +8,12 @@ public class Lew extends Ssak {
 
     @Override
     public String wydajDzwiek() {
-        return "Roooar!";
+        return "Rrrrr!";
     }
 
     @Override
     public String poruszajSie() {
-        return "Biegnie po sawannie";
+        return "Biegnie";
     }
 
     @Override
@@ -22,6 +22,6 @@ public class Lew extends Ssak {
     }
 
     public void poluj() {
-        System.out.println("Lew poluje w grupie");
+        System.out.println("Lew polujący w grupie");
     }
 }
