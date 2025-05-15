@@ -14,7 +14,6 @@ public class ZarzadzanieZoo {
             System.out.println();
         }
 
-        // Przykład wywołania metody specyficznej
         ((Lew)lew).poluj();
         ((Orzel)orzel).szybuj();
         ((Wez)wez).ukas();

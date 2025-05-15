@@ -11,9 +11,10 @@
       <change afterPath="$PROJECT_DIR$/src/Ptak.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Ssak.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Wez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZarzadzanieZoo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Zwierze.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZarzadzanieZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747311143336</updated>
       <workItem from="1747311144342" duration="8000" />
-      <workItem from="1747311182994" duration="1580000" />
+      <workItem from="1747311182994" duration="1608000" />
     </task>
     <servers />
   </component>
