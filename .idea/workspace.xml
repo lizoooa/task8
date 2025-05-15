@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="609e3a52-6fd7-43fb-902d-784adebaa697" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Orzel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ptak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ssak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zwierze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZarzadzanieZoo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747311143336</updated>
       <workItem from="1747311144342" duration="8000" />
-      <workItem from="1747311182994" duration="315000" />
+      <workItem from="1747311182994" duration="1580000" />
     </task>
     <servers />
   </component>
@@ -62,8 +74,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
+          <url>file://$PROJECT_DIR$/src/ZarzadzanieZoo.java</url>
+          <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
